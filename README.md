@@ -13,8 +13,8 @@ launcher    : dmenu
 
 ## Dependencies
 
-- [leftwm-git](https://github.com/leftwm/leftwm)
-- [ibhagwan picom](https://github.com/ibhagwan/picom)
+- [leftwm](https://github.com/leftwm/leftwm)
+- [yshui/picom](https://github.com/yshui/picom.git)
 - [polybar](https://github.com/polybar/polybar)
 - [FiraCode](https://github.com/tonsky/FiraCode.git)
 - [dmenu](https://git.suckless.org/dmenu)
@@ -61,5 +61,6 @@ ln -s list_launcher.rasi launcher.rasi
 
 ## Credits
 
-The polybar theme is a modified panel created by adi1090x(https://github.com/adi1090x/polybar-themes)
-AethanFoot/leftwm-theme-dracula-rounded(https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git)
+[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
+
+[AethanFoot/leftwm-theme-dracula-rounded](https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git)
