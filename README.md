@@ -8,22 +8,15 @@ WM          : Leftwm
 terminal    : Alacritty/st
 colorscheme : Dracula
 bar         : Polybar
-launcher    : dMenu
+launcher    : dmenu
 ```
-
-## Screenshot
-
-![Desktop](./images/desktop1.png)
-![Desktop](./images/sysmenu.png)
-![Desktop](./images/app_menu.png)
-![Desktop](./images/list_menu.png)
 
 ## Dependencies
 
 - [leftwm-git](https://github.com/leftwm/leftwm)
 - [ibhagwan picom](https://github.com/ibhagwan/picom)
 - [polybar](https://github.com/polybar/polybar)
-- [FiraCode nerd font](https://github.com/ryanoasis/nerd-fonts)
+- [FiraCode](https://github.com/tonsky/FiraCode.git)
 - [dmenu](https://git.suckless.org/dmenu)
 
 ## Installation
@@ -69,3 +62,4 @@ ln -s list_launcher.rasi launcher.rasi
 ## Credits
 
 The polybar theme is a modified panel created by adi1090x(https://github.com/adi1090x/polybar-themes)
+AethanFoot/leftwm-theme-dracula-rounded(https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git)
