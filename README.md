@@ -1,4 +1,4 @@
-# Dracula Rounded
+# Leftwm Dracula Theme
 
 ## Packages
 
@@ -8,7 +8,7 @@ WM          : Leftwm
 terminal    : Alacritty/st
 colorscheme : Dracula
 bar         : Polybar
-launcher    : Rofi
+launcher    : dMenu
 ```
 
 ## Screenshot
@@ -23,8 +23,8 @@ launcher    : Rofi
 - [leftwm-git](https://github.com/leftwm/leftwm)
 - [ibhagwan picom](https://github.com/ibhagwan/picom)
 - [polybar](https://github.com/polybar/polybar)
-- [saucecodepro nerd font](https://github.com/ryanoasis/nerd-fonts)
-- [rofi](https://github.com/davatorium/rofi)
+- [FiraCode nerd font](https://github.com/ryanoasis/nerd-fonts)
+- [dmenu](https://git.suckless.org/dmenu)
 
 ## Installation
 
