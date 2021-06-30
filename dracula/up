@@ -24,6 +24,9 @@ if [ -x "$(command -v feh)" ]; then
 fi
 
 dunst &
+nm-applet &
+setxkbmap -layout us,ir &
+setxkbmap -option 'grp:alt_shift_toggle' &
 
 index=0
 monitors=($(polybar -m | sed s/:.*//))

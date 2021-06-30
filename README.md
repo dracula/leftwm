@@ -1,66 +1,21 @@
-# Leftwm Dracula Theme
+# Dracula for [X](http://link-to-x.com)
 
-## Packages
+> A dark theme for [X](http://link-to-x.com).
 
-```
-DE          : Arch
-WM          : Leftwm
-terminal    : Alacritty/st
-colorscheme : Dracula
-bar         : Polybar
-launcher    : dmenu
-```
+![Screenshot](./screenshot.png)
 
-## Dependencies
+## Install
 
-- [leftwm](https://github.com/leftwm/leftwm)
-- [yshui/picom](https://github.com/yshui/picom.git)
-- [polybar](https://github.com/polybar/polybar)
-- [FiraCode](https://github.com/tonsky/FiraCode.git)
-- [dmenu](https://git.suckless.org/dmenu)
+All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
 
-## Installation
+## Team
 
-1. Install all required dependencies
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-2. Clone the repository
+[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+--- |
+[Zeno Rocha](https://github.com/zenorocha) |
 
-```BASH
-git clone https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git
-```
+## License
 
-3. Make a copy of this project in your themes folder
-
-```BASH
-cp -r ./leftwm-theme-dracula-rounded ~/.config/leftwm/themes
-```
-
-4. Remove the symlink to your current theme if set
-
-```BASH
-rm ~/.config/leftwm/themes/current
-```
-5. Set this as your current theme
-
-```BASH
-ln -s ~/.config/leftwm/themes/leftwm-theme-dracula-rounded ~/.config/leftwm/themes/current
-```
-
-6. Restart your window manager
-
-```Default shortcut
-$MOD + Shift + r
-```
-
-## Configuration
-
-There are two launchers that can be used, list and touch. You can switch between these by linking either to the file launcher.rasi e.g.:
-```BASH
-ln -s list_launcher.rasi launcher.rasi
-```
-
-## Credits
-
-[adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
-
-[AethanFoot/leftwm-theme-dracula-rounded](https://github.com/AethanFoot/leftwm-theme-dracula-rounded.git)
+[MIT License](./LICENSE)
