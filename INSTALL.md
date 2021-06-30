@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [leftwm](https://github.com/leftwm/leftwm)
 
 #### Install using Git
 
@@ -13,5 +13,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/leftwm/arch
 #### Activating theme
 
 1. Copy the dracula folder to ~/.config/leftwm/themes
-2. Then do a soft reload
-3. Boom! It's working
+2. ln -s ~/.config/leftwm/themes/dracula ~/.config/leftwm/themes/current
+3. Then do a soft reload
+4. Done
