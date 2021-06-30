@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [leftwm](https://github.com/leftwm/leftwm)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [leftwm](https://github.com/leftwm/leftwm).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/leftwm](https://draculatheme.com/leftwm).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![M.J. Bagheri Nejad](https://github.com/mjbn.png?size=100)](https://github.com/mjbn) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[M.J. Bagheri Nejad](https://github.com/mjbn) |
 
 ## License
 
