@@ -15,7 +15,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/leftwm/arch
 1. Copy the dracula folder to ~/.config/leftwm/themes
 2. run the command below
 
-    $ ln -s ~/.config/leftwm/themes/dracula ~/.config/leftwm/themes/current
+    ln -s ~/.config/leftwm/themes/dracula ~/.config/leftwm/themes/current
 
 3. Then do a soft reload
 4. Done
